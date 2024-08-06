@@ -26,3 +26,7 @@ This is a repository of React Shopping Cart Task's Solution.
 ```bash
  http://localhost:5173
 ```
+
+# Deployed URL
+
+https://react-e-shop-cart.netlify.app
