@@ -22,9 +22,9 @@ const productData = [
     },
     {
         "id": 4,
-        "name": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Air-M2-availability-July-2022-hero_big.jpg.slideshow-large_2x.jpg",
+        "name": "Apple MacBook Air M2",
         "price": 1199.99,
-        "image_url": "src/assets/Apple-Macbook-Air-M2.jpg",
+        "image_url": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Air-M2-availability-July-2022-hero_big.jpg.slideshow-large_2x.jpg",
         "description": "The MacBook Air M2 combines an ultra-thin design with Apple's M2 chip, offering exceptional performance and a Retina display."
     },
     {
