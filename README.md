@@ -7,22 +7,22 @@ This is a repository of React Shopping Cart Task's Solution.
 1. Install node modules :
 
 ```bash
-    npm i
+ npm i
 ```
 2. First run the development :
 
 ```bash
-    npm run dev
+ npm run dev
 ```
 
 3. Start the server :
 
 ```bash
-    npm run dev
+ npm run dev
 ```
 
 4. Open the browser :
  
 ```bash
-    http://localhost:5173
+ http://localhost:5173
 ```
