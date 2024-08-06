@@ -64,6 +64,11 @@ function App() {
               />
             ))}
           </div>
+          <div className="p-10 mt-12 bg-gray-900">
+            <Typography className="mt-3 block font-sans text-center text-white text-base antialiased font-medium leading-relaxed">
+              Copyright @ Shopping Cart 2024
+            </Typography>
+          </div>
         </div>
         <div className="sticky top-0">
           {showCart && (
